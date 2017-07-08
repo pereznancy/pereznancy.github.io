@@ -1,0 +1,34 @@
+header {
+
+}
+
+
+
+
+
+h1 {font-size: 50px;
+  text-align: center;
+  color: green;
+}
+
+nav {float: left;
+
+}
+li a {font-size: 20px
+
+}
+div {width:700px;
+  margin:0 auto;
+
+}
+
+img { margin :0 auto;
+  display: block;
+}
+a {
+  color: orange;
+}
+
+*{
+    font-family: "Comic Sans MS", Georgia, Serif;
+}

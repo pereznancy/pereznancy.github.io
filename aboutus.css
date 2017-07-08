@@ -1,0 +1,29 @@
+body {
+  border-image: url(http://www.clipartandgraphics.com/images/borders/border05.gif) 25 25 round;
+  background-color: #c31d1d;
+  font-family: "Palatino" fantasy;
+}
+
+header {
+font-family: "Georgia", cursive;
+  text-align: center;
+  font-size: 50px;
+  background-color: red;
+}
+
+nav {
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.kitty {
+  width: 50vw;
+  height: 50vw;
+  margin: 0 25vw;
+}
+.crazykitty {
+  width: 50vw;
+  height: 50vw;
+  margin: 0 25vw;
+}

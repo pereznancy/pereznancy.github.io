@@ -1,0 +1,26 @@
+header {
+  color: teal;
+  }
+
+li {
+  text-align: center;
+}
+a {
+  color: DeepPink;
+}
+
+{!Any anchor that is a child to a list w/b that selected color}
+li a {
+  color: DeepPink;
+}
+
+article h2,
+article p {
+  color: blue;
+}
+
+{!CSS Properties
+padding: 5px;
+border: 2px solid black;
+color: crimson;
+background-color: }

@@ -1,0 +1,106 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: Lavender;
+  height: 100%;
+}
+
+.jeff {
+  margin: 0 25vw;
+  width: 25vw;
+  height: 25vw;
+}
+
+.paws {
+  margin: 0 25vw;
+  width: 25vw;
+  height: 25vw;
+}
+
+.horse {
+  margin: 0 25vw;
+  width: 25vw;
+  height: 25vw;
+}
+
+header {
+  margin: 0;
+  padding: 5px;
+  display: block;
+  width: auto;
+}
+
+h1 {
+  margin: 0;
+  color: Purple;
+  font-family: "Curlz MT", cursive;
+  font-size: 550%;
+  text-align: center;
+}
+
+h2 {
+  color: Black;
+  font-family: "Curlz MT", cursive;
+  font-size: 200%;
+  text-align: center;
+
+}
+
+h3 {
+  color: Black;
+  font-family: "Curlz MT", cursive;
+  font-size: 150%;
+  text-align: center;
+
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+
+
+
+
+nav {
+  line-height:20px;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: Purple ;
+}
+
+section {
+  width: auto;
+  display: inline-block;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
